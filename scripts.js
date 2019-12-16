@@ -7,7 +7,7 @@ var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
 var logoUrl = 'https://squalio.com/wp-content/uploads/2018/06/ivanti-logo-600x441.png';
 // replace with your brand hex code.  changes color of header text and button background //
-var fontColor = '#3d00b2';
+var fontColor = '#c93a2b';
 // replace with a hex code of your liking.  changes text color on the submit button //
 var buttonTextColor = '#ffffff';
 
