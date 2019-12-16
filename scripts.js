@@ -5,7 +5,7 @@ var dsClickwrapId = '58e76dd7-5ea0-4cbf-b0e4-bc9fb7817b35';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://squalio.com/wp-content/uploads/2018/06/ivanti-logo-600x441.png';
+var logoUrl = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpU4d1OmPcnztsGMXLhCx2ilehDm8jwqNJmikZlfAP13n5H_k&s';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#c93a2b';
 // replace with a hex code of your liking.  changes text color on the submit button //
